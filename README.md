@@ -1,71 +1,30 @@
-<div align="center">
-  <h2>Seja bem-vindo ao meu perfil!</h2>
-</div>
+# Olá, eu sou o Carlos 👋
 
-<br />
+Trabalho com **engenharia clínica hospitalar** e estudo **Engenharia de Software**. Desenvolvo software para resolver problemas que vejo de perto no dia a dia de hospitais: gestão de equipamentos médicos, ordens de serviço e documentação técnica.
 
-<div align="center">
-  <!-- Estatísticas do GitHub -->
-  <a href="https://github.com/oCarlosHenriqueB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oCarlosHenriqueB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  </a>
-</div>
+- 🏥 Construindo o **[Orbis](https://github.com/oCarlosHenriqueB/orbis-os)**, app mobile em Flutter para gestão de ordens de serviço em engenharia clínica
+- 🧠 Explorando agentes de IA com o **[Second Brain Agent](https://github.com/oCarlosHenriqueB/second-brain-agent)**, que transforma textos em resumos e flashcards (Ollama ou Claude)
+- 📍 Barueri, São Paulo
 
-<br />
+## 🚀 Projetos em destaque
 
-<div align="center">
-  <!-- Linguagens Mais Utilizadas -->
-  <a href="https://github.com/oCarlosHenriqueB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCarlosHenriqueB&layout=compact&langs_count=8&theme=dark" alt="Linguagens mais utilizadas"/>
-  </a>
-</div>
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Orbis**](https://github.com/oCarlosHenriqueB/orbis-os) | Ordens de serviço, equipamentos por setor e histórico de manutenção preventiva e corretiva | Flutter · Dart · Android · iOS |
+| [**Second Brain Agent**](https://github.com/oCarlosHenriqueB/second-brain-agent) | Agente de conhecimento pessoal: texto → resumo + flashcards em Markdown, com arquitetura em camadas e testes | Python · Ollama · Claude API |
 
-<br />
+## 🛠️ Tecnologias
 
-<div align="center">
-  <!-- Linguagens e Tecnologias -->
-  <h2>Linguagens e Tecnologias que Estou Aprendendo</h2>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </a>
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br />
+## 📫 Contato
 
-<div align="center">
-  <!-- Links para Contato -->
-  <a href="mailto:ocarloshenriqueb@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-henrique-bresio-8a7057191/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Contador de Visualizações -->
-  <p>
-    <img align="center" src="https://profile-counter.glitch.me/oCarlosHenriqueB/count.svg" alt="Contador de visitas"/>
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Snake Animation -->
-  <img src="https://github.com/oCarlosHenriqueB/oCarlosHenriqueB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-bresio-8a7057191/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ocarloshenriqueb@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-222?style=flat-square&logo=githubpages&logoColor=white)](https://ocarloshenriqueb.github.io/Meu-Portifolio/)
