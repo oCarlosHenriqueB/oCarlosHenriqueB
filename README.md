@@ -1,6 +1,6 @@
 # Olá, eu sou o Carlos 👋
 
-Trabalho com **engenharia clínica hospitalar** e estudo **Engenharia de Software**. Desenvolvo software para resolver problemas que vejo de perto no trabalho: controle de horas, gestão de projetos e documentação técnica.
+Trabalho com **documentação técnica na Atlas Copco** e estudo **Engenharia de Software**. Desenvolvo software para resolver problemas que vejo de perto no trabalho: controle de horas, gestão de projetos e documentação técnica.
 
 - ⏱️ Construindo o **[Timesheet](https://github.com/oCarlosHenriqueB/timesheet)**, app web para registrar e somar as horas que uma equipe técnica gasta em cada projeto
 - 🧠 Explorando agentes de IA com o **[Second Brain Agent](https://github.com/oCarlosHenriqueB/second-brain-agent)**, que transforma textos em resumos e flashcards (Ollama ou Claude)
